@@ -27,6 +27,11 @@ $skor = [
     "nilai" => 78
   ],
   [
+    "nama" => "Regi",
+    "kelas" => "React Native",
+    "nilai" => 86
+  ],
+  [
     "nama" => "Aghnat",
     "kelas" => "Laravel",
     "nilai" => 90
@@ -40,11 +45,6 @@ $skor = [
     "nama" => "Yoga",
     "kelas" => "React Native",
     "nilai" => 77
-  ],
-  [
-    "nama" => "Regi",
-    "kelas" => "React Native",
-    "nilai" => 86
   ],
 ];
 
