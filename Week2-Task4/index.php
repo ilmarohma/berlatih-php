@@ -2,7 +2,7 @@
 include "Frog.php";
 include "Ape.php";
 
-$sheep = new Animal("shaun");
+$sheep = new Animal("shloaun");
 
 echo $sheep->get_name(); // "shaun"
 echo $sheep->get_legs(); // 2
