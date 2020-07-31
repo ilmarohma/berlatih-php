@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74f697ad-fee3-405e-93bb-ebe97e6fe3eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/cari-mean.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/palindrome-angka.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/papan-catur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pasangan-terbesar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skor-terbesar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tentukan-deret-aritmatika.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tentukan-deret-geometri.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tukar-besar-kecil.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ubah-huruf.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1fRRHt4OreLAn4542EdoHDaA2QB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="81">
+      <CommandLine workingDirectory="$PROJECT_DIR$/../.." />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74f697ad-fee3-405e-93bb-ebe97e6fe3eb" name="Default Changelist" comment="" />
+      <created>1596178834402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596178834402</updated>
+      <workItem from="1596178836300" duration="192000" />
+      <workItem from="1596179091182" duration="172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="222" y="0" key="#CLI_Interpreters" timestamp="1596179257155">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="222" y="0" key="#CLI_Interpreters/0.0.1280.680@0.0.1280.680" timestamp="1596179257155" />
+    <state x="349" y="0" key="#PHP" timestamp="1596179263907">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="0" key="#PHP/0.0.1280.680@0.0.1280.680" timestamp="1596179263907" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596179152143">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1596179152143" />
+    <state x="509" y="91" width="595" height="498" key="EnvironmentVariablesDialog" timestamp="1596179149464">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="509" y="91" width="595" height="498" key="EnvironmentVariablesDialog/0.0.1280.680@0.0.1280.680" timestamp="1596179149464" />
+    <state x="685" y="13" width="438" height="543" key="FileChooserDialogImpl" timestamp="1596179243270">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="685" y="13" width="438" height="543" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596179243270" />
+  </component>
+</project>
