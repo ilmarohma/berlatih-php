@@ -71,7 +71,7 @@ INSERT INTO items VALUES('', 'IMHO Watch', 'jam tangan anak yang jujur banget', 
 --
 -- a. Mengambil data users
 --
-SELECT id, name, email, password FROM users;
+SELECT id, name, email FROM users;
 
 --
 -- b. Mengambil data items
