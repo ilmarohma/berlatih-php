@@ -5,7 +5,7 @@ Repositori untuk Kelas Laravel Dasar yang di selenggarakan Sanbercode (sanbercod
 learn more about function, logic and algorithm
 
 ## Week2-Task4
-learn class (Create new class, Inheritance)
+Intro to Object Oriented Programming in PHP (Create new class, Inheritance)
 
 ## Week2-Task5
 Learn MySQL (Create database, create table, insert data to table, and some simple read and update queries)
